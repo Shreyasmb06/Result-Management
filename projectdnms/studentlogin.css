@@ -1,0 +1,32 @@
+body{
+    background-image:url("/login1.jpg") ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+    
+
+}
+.login{
+    
+    width: 400px;
+    height: 450px;
+    border-radius: 10%;
+    background-color:rgb(206, 200, 169);
+    border-left: 10%;
+    
+}
+.lcontainer{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding-top: 10%;
+    
+    
+}
+#warning{
+    color: red;
+}
+
